@@ -35,17 +35,6 @@ book-store-website/
 |-- README.md
 ```
 
-## Installation
-```
-1. Clone the repository
-   git clone https://github.com/your-username/book-store-website.git
-
-2. Open the project folder
-
-3. Open index.html in any browser
-   OR
-   Run with Live Server in VS Code
-```
 
 
 ## Future Improvements
